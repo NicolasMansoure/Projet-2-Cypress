@@ -18,6 +18,10 @@
     },
     "homepage": "https://github.com/NicolasMansoure/Projet-2-Cypress#readme",
     "devDependencies": {
+        "@faker-js/faker": "^7.6.0",
         "cypress": "^12.5.0"
+    },
+    "dependencies": {
+        "cypress-real-events": "^1.7.6"
     }
 }
